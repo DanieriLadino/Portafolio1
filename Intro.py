@@ -11,7 +11,7 @@ st.set_page_config(page_title="Mis Apps de IA", page_icon="🤖", layout="wide")
 # =================================================================
 # DATOS QUE PUEDES EDITAR
 # =================================================================
-NOMBRE = "Tu nombre"          # aparece en la barra inferior
+NOMBRE = "Danieri Ladino"         # aparece en la barra inferior
 CURSO = "Interfaces Multimodales"
 ANIO = "2026"
 ALTO = 1150                   # alto de la página en píxeles (súbelo si se corta algo)
